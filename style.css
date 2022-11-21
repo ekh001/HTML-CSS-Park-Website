@@ -1,0 +1,39 @@
+*{
+    /* border: 1px solid red; */
+    
+}
+
+/* About */
+
+#description{
+    font-family: "Caveat", sans-serif;
+    text-align: center;
+    font-size: 19px;
+}
+
+
+/* Gallery */
+
+#gallery{
+    font-family: "Indie Flower", sans-serif;
+    font-weight: bold;
+    border-color: aliceblue;
+}
+
+
+/* Footer */
+.bottom {
+    background-color: white;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    margin-bottom: 0px;
+    justify-content: space-evenly;
+}
+
+
+
+
+
